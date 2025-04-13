@@ -90,7 +90,7 @@ fun BirdTopAppBar(modifier: Modifier = Modifier) {
             ) {
                 Text(
                     text = stringResource(R.string.app_quip),
-                    style = MaterialTheme.typography.displayMedium
+                    style = MaterialTheme.typography.headlineMedium
                 )
             }
         },
@@ -131,8 +131,14 @@ fun BirdItem(
                     )
                 )
                     {
-                    Text(text = stringResource(bird.commonName))
-                    Text(text = stringResource(bird.scientificName))
+                    Text(
+                        text = stringResource(bird.commonName),
+                        style = MaterialTheme.typography.displayMedium
+                        )
+                    Text(
+                        text = stringResource(bird.scientificName),
+                        style = MaterialTheme.typography.labelSmall
+                        )
                 }
                 Spacer(Modifier.weight(1f))
                 BirdItemButton(
@@ -171,7 +177,7 @@ private fun BirdItemButton(
         modifier = modifier
     ) {
         Icon(
-            imageVector = if (expanded) Icons.Filled.KeyboardArrowDown else Icons.Filled.KeyboardArrowUp,
+            imageVector = if (expanded) Icons.Filled.KeyboardArrowUp else Icons.Filled.KeyboardArrowDown,
             contentDescription = stringResource(R.string.expand_button_content_description),
             tint = MaterialTheme.colorScheme.secondary
         )
@@ -187,7 +193,7 @@ fun BirdImage(
     Image(
         modifier = modifier
             //.size(dimensionResource(R.dimen.image_size))
-            .padding(dimensionResource(R.dimen.padding_small)),
+            .padding(dimensionResource(R.dimen.padding_medium)),
             //.clip(MaterialTheme.shapes.small),
         //contentScale = ContentScale.Crop,
         painter = painterResource(birdImage),
@@ -205,7 +211,7 @@ fun BirdDescription(
     ) {
         Text(
             text = stringResource(birdDescription),
-            style = MaterialTheme.typography.bodySmall
+            style = MaterialTheme.typography.bodyLarge
         )
     }
 }

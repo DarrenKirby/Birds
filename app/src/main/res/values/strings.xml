@@ -1,0 +1,154 @@
+<resources>
+    <string name="app_name">Birds</string>
+
+    <!-- American Avocet -->
+    <string name="american_avocet">American Avocet</string>
+    <string name="american_avocet_binomial">Recurvirostra americana</string>
+    <string name="american_avocet_desc">The American avocet is a large wader in the avocet and stilt family, Recurvirostridae, found in North America. It spends much of its time foraging in shallow water or on mud flats, often sweeping its bill from side to side in water as it seeks crustacean and insect prey.</string>
+
+    <!-- American Crow -->
+    <string name="american_crow">American Crow</string>
+    <string name="american_crow_binomial">Corvus brachyrhynchos</string>
+    <string name="american_crow_desc">The American crow is a large passerine bird species of the family Corvidae. It is a common bird found throughout much of North America. American crows are the New World counterpart to the carrion crow and the hooded crow of Eurasia; they all occupy the same ecological niche.</string>
+
+    <!-- American Robin -->
+    <string name="american_robin">American Robin</string>
+    <string name="american_robin_binomial">Turdus migratorius</string>
+    <string name="american_robin_desc">The American robin is a migratory bird of the true thrush genus and Turdidae, the wider thrush family. It is named after the European robin because of its reddish-orange breast, though the two species are not closely related, with the European robin belonging to the Old World flycatcher family. </string>
+
+    <!-- Anna's Hummingbird -->
+    <string name="annas_hummingbird">Anna\'s Hummingbird</string>
+    <string name="annas_hummingbird_binomial">Calypte anna</string>
+    <string name="annas_hummingbird_desc">Anna\'s hummingbird is a North American species of hummingbird named after Anna Masséna, Duchess of Rivoli. It is native to western coastal regions of North America.</string>
+
+    <!-- Baltimore Oriole -->
+    <string name="baltimore_oriole">Baltimore Oriole</string>
+    <string name="baltimore_oriole_binomial">Icterus galbula</string>
+    <string name="baltimore_oriole_desc">The Baltimore oriole is a small icterid blackbird common in eastern North America as a migratory breeding bird. It received its name from the resemblance of the male\'s colors to those on the coat-of-arms of 17th-century Lord Baltimore. </string>
+
+    <!-- Bohemian Waxwing -->
+    <string name="bohemian_waxwing">Bohemian Waxwing</string>
+    <string name="bohemian_waxwing_binomial">Bombycilla garrulus</string>
+    <string name="bohemian_waxwing_desc">The Bohemian waxwing is a starling-sized passerine bird that breeds in the northern forests of the Palearctic and North America. It has mainly buff-grey plumage, black face markings and a pointed crest.</string>
+
+    <!-- Brown Creeper -->
+    <string name="brown_creeper">Brown Creeper</string>
+    <string name="brown_creeper_binomial">Certhia americana</string>
+    <string name="brown_creeper_desc">The brown creeper, also known as the American treecreeper, is a small songbird, the only North American member of the treecreeper family Certhiidae.</string>
+
+    <!-- Chestnut-sided Warbler -->
+    <string name="chestnut_sided_warbler">Chestnut-sided Warbler</string>
+    <string name="chestnut_sided_warbler_binomial">Setophaga pensylvanica</string>
+    <string name="chestnut_sided_warbler_desc">The chestnut-sided warbler is a New World warbler. They breed in eastern North America and in southern Canada westwards to the Canadian Prairies. They also breed in the Great Lakes region and in the eastern United States.</string>
+
+    <!-- Clark's Nutcracker -->
+    <string name="clarks_nutcracker">Clark\'s Nutcracker</string>
+    <string name="clarks_nutcracker_binomial">Nucifraga columbiana</string>
+    <string name="clarks_nutcracker_desc">Clark\'s nutcracker, sometimes referred to as Clark\'s crow or woodpecker crow, is a passerine bird in the family Corvidae, native to the mountains of western North America.</string>
+
+    <!-- Common Raven -->
+    <string name="common_raven">Common Raven</string>
+    <string name="common_raven_binomial">Corvus corax</string>
+    <string name="common_raven_desc">The common raven or northern raven is a large all-black passerine bird. It is the most widely distributed of all corvids, found across the Northern Hemisphere.</string>
+
+    <!-- Evening Grosbeak -->
+    <string name="evening_grosbeak">Evening Grosbeak</string>
+    <string name="evening_grosbeak_binomial">Coccothraustes vespertinus</string>
+    <string name="evening_grosbeak_desc">The evening grosbeak is a passerine bird in the finch family Fringillidae found in North America. The evening grosbeak is bulky, with a large bill and short tail.</string>
+
+    <!-- Fox Sparrow -->
+    <string name="fox_sparrow">Fox Sparrow</string>
+    <string name="fox_sparrow_binomial">Passerella iliaca</string>
+    <string name="fox_sparrow_desc">The fox sparrow is a large New World sparrow. It is the only member of the genus Passerella, although some authors split the species into four.</string>
+
+    <!-- Hermit Thrush -->
+    <string name="hermit_thrush">Hermit Thrush</string>
+    <string name="hermit_thrush_binomial">Catharus guttatus</string>
+    <string name="hermit_thrush_desc">The hermit thrush is a medium-sized North American thrush. Hermit thrushes breed in coniferous or mixed woods across Canada, southern Alaska, and the northeastern and western United States.</string>
+
+    <!-- Killdeer -->
+    <string name="killdeer">Killdeer</string>
+    <string name="killdeer_binomial">Charadrius vociferus</string>
+    <string name="killdeer_desc">The killdeer is a large plover found in the Americas. Its shrill, two-syllable call is often heard, sounding like "kill deer." It was described and given its current scientific name in 1758 by Carl Linnaeus in the 10th edition of his Systema Naturae. Three subspecies are described.</string>
+
+    <!-- Lincoln's Sparrow -->
+    <string name="lincolns_sparrow">Lincoln\'s Sparrow</string>
+    <string name="lincolns_sparrow_binomial">Melospiza lincolnii</string>
+    <string name="lincolns_sparrow_desc">Lincoln\'s sparrow is a small sparrow native to North America. It is a less common passerine bird that often stays hidden under thick ground cover, but can be distinguished by its sweet, wrenlike song.</string>
+
+    <!-- Mandarin Duck -->
+    <string name="mandarin_duck">Mandarin Duck</string>
+    <string name="mandarin_duck_binomial">Aix galericulata</string>
+    <string name="mandarin_duck_desc">The mandarin duck is a perching duck species native to the East Palearctic. It is sexually dimorphic - the males are elaborately coloured, while the females have more subdued colors. It is a medium-sized duck, at 41–49 cm long with a 65–75 cm wingspan. </string>
+
+    <!-- Mountain Bluebird -->
+    <string name="mountain_bluebird">Mountain Bluebird</string>
+    <string name="mountain_bluebird_binomial">Sialia currucoides</string>
+    <string name="mountain_bluebird_desc">The mountain bluebird is a migratory small thrush that is found in mountainous districts of western North America. It has a light underbelly and black eyes. Adult males have thin bills and are bright turquoise-blue and somewhat lighter underneath. </string>
+
+    <!-- Northern Pintail -->
+    <string name="northern_pintail">Northern Pintail</string>
+    <string name="northern_pintail_binomial">Anas acuta</string>
+    <string name="northern_pintail_desc">The pintail or northern pintail is a duck species with wide geographic distribution that breeds in the northern areas of Europe and across the Palearctic and North America. It is migratory and winters south of its breeding range as far as the equator.</string>
+
+    <!-- Red-breasted Nuthatch -->
+    <string name="red_breasted_nuthatch">Red-breasted Nuthatch</string>
+    <string name="red_breasted_nuthatch_binomial">Sitta canadensis</string>
+    <string name="red_breasted_nuthatch_desc">The red-breasted nuthatch is a small songbird. The adult has blue-grey upperparts with cinnamon underparts, a white throat and face with a black stripe through the eyes, a straight grey bill and a black crown. Its call, which has been likened to a tin trumpet, is high-pitched and nasal.</string>
+
+    <!-- Red-winged Blackbird -->
+    <string name="red_winged_blackbird">Red-winged Blackbird</string>
+    <string name="red_winged_blackbird_binomial">Agelaius phoeniceus</string>
+    <string name="red_winged_blackbird_desc">The red-winged blackbird is a passerine bird of the family Icteridae found in most of North America and much of Central America.</string>
+
+    <!-- Ring-necked Duck -->
+    <string name="ring_necked_duck">Ring-necked Duck</string>
+    <string name="ring_necked_duck_binomial">Aythya collaris</string>
+    <string name="ring_necked_duck_desc">The ring-necked duck is a diving duck from North America commonly found in freshwater ponds and lakes. The scientific name is derived from Greek aithuia, an unidentified seabird mentioned by authors including Hesychius and Aristotle, and Latin collaris, "of the neck" from collum, "neck".</string>
+
+    <!-- Rusty Blackbird -->
+    <string name="rusty_blackbird">Rusty Blackbird</string>
+    <string name="rusty_blackbird_binomial">Euphagus carolinus</string>
+    <string name="rusty_blackbird_desc">The rusty blackbird is a medium-sized New World blackbird, closely related to grackles. It is a bird that prefers wet forested areas, breeding in the boreal forest and muskeg across northern Canada, and migrating southeast to the United States during winter.</string>
+
+    <!-- Sandhill Crane -->
+    <string name="sandhill_crane">Sandhill Crane</string>
+    <string name="sandhill_crane_binomial">Grus canadensis</string>
+    <string name="sandhill_crane_desc">The sandhill crane is a species of large crane of North America and extreme northeastern Siberia. The common name of this bird refers to their habitat such as the Platte River, on the edge of Nebraska\'s Sandhills on the American Great Plains. Sandhill cranes are known to frequent the edges of bodies of water. </string>
+
+    <!-- Song Sparrow -->
+    <string name="song_sparrow">Song Sparrow</string>
+    <string name="song_sparrow_binomial">Melospiza melodia</string>
+    <string name="song_sparrow_desc">The song sparrow is a medium-sized New World sparrow. Among the native sparrows in North America, it is easily one of the most abundant, variable and adaptable species.</string>
+
+    <!-- Spotted Towhee -->
+    <string name="spotted_towhee">Spotted Towhee</string>
+    <string name="spotted_towhee_binomial">Pipilo maculatus</string>
+    <string name="spotted_towhee_desc">The spotted towhee is a large New World sparrow. The taxonomy of the towhees has been debated in recent decades, and until 1995 this bird and the eastern towhee were considered a single species, the rufous-sided towhee. Another outdated name for the spotted towhee is the Oregon towhee.</string>
+
+    <!-- Stellar's Jay -->
+    <string name="stellars_jay">Stellar\'s Jay</string>
+    <string name="stellars_jay_binomial">Cyanocitta stelleri</string>
+    <string name="stellars_jay_desc">Steller\'s jay is a bird native to western North America and the mountains of Central America, closely related to the blue jay found in eastern North America. It is the only crested jay west of the Rocky Mountains.</string>
+
+    <!-- Tree Swallow -->
+    <string name="tree_swallow">Tree Swallow</string>
+    <string name="tree_swallow_binomial">Tachycineta bicolor</string>
+    <string name="tree_swallow_desc">The tree swallow is a migratory bird of the family Hirundinidae. Found in the Americas, the tree swallow was first described in 1807 by French ornithologist Louis Vieillot as Hirundo bicolor. It has since been moved to its current genus, Tachycineta, within which its phylogenetic placement is debated. </string>
+
+    <!-- Upland Sandpiper -->
+    <string name="upland_sandpiper">Upland Sandpiper</string>
+    <string name="upland_sandpiper_binomial">Bartramia longicauda</string>
+    <string name="upland_sandpiper_desc">The upland sandpiper is a large sandpiper, closely related to the curlews. Older names are the upland plover and Bartram\'s sandpiper. In Louisiana, it is also colloquially known as the papabotte. It is the only member of the genus Bartramia.</string>
+
+    <!-- Yellow-headed Blackbird -->
+    <string name="yellow_headed_blackbird">Yellow-headed Blackbird</string>
+    <string name="yellow_headed_blackbird_binomial">Xanthocephalus xanthocephalus</string>
+    <string name="yellow_headed_blackbird_desc">The yellow-headed blackbird is a medium-sized blackbird with a yellow head. It is the only member of the genus Xanthocephalus. Their scientific name derives from the Greek word for yellow, xanthous, and the word for head, cephalus. </string>
+
+    <!-- Yellow Warbler -->
+    <string name="yellow_warbler">Yellow Warbler</string>
+    <string name="yellow_warbler_binomial">Setophaga petechia</string>
+    <string name="yellow_warbler_desc">The yellow warbler is a New World warbler species. Yellow warblers are the most widespread species in the diverse genus Setophaga, breeding in almost the whole of North America, the Caribbean, as well as northern South America.</string>
+
+</resources>

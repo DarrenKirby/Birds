@@ -1,0 +1,36 @@
+# Gradle
+.gradle/
+build/
+*/build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# IDE files
+.idea/
+*.iml
+
+# Kotlin-specific
+*.class
+*.kt~
+*.kts~
+
+# Logs and caches
+*.log
+captures/
+.externalNativeBuild/
+
+# Jetpack Compose
+.compose-cache/
+compose-metrics/
+compose-reports/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Other
+*.apk
+*.ap_
+
+

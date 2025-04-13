@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Birds</string>
+    <string name="app_quip">30 Days of Birds</string>
+    <string name="expand_button_content_description">See more or less information about a bird.</string>
 
     <!-- American Avocet -->
     <string name="american_avocet">American Avocet</string>

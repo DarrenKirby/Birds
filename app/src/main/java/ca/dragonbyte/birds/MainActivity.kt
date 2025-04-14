@@ -38,6 +38,7 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.draw.shadow
 import androidx.compose.ui.res.dimensionResource
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
@@ -109,7 +110,9 @@ fun BirdItem(
         else MaterialTheme.colorScheme.primaryContainer
     )
     Card(
-        modifier = modifier
+        modifier = modifier.shadow(
+            elevation = dimensionResource(R.dimen.shadow_size)
+        )
     ) {
         Column(
             modifier = Modifier
@@ -124,7 +127,7 @@ fun BirdItem(
                 .padding(top = dimensionResource(R.dimen.padding_medium))
         )
         {
-            Row() {
+            Row {
                 Column (
                     modifier = Modifier.padding(
                         start = dimensionResource(R.dimen.padding_medium)

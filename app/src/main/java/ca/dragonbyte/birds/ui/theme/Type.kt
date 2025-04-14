@@ -14,13 +14,14 @@ val Caveat = FontFamily(
 )
 
 val NotoSans = FontFamily(
+    Font(R.font.notosans_regular),
     Font(R.font.notosans_semibold, FontWeight.Bold),
     Font(R.font.notosans_italic, FontWeight.Normal,  FontStyle.Italic)
 )
 
-val CormorantGaramond=FontFamily(
-    Font(R.font.cormorant_garamond_regular)
-)
+//val CormorantGaramond=FontFamily(
+//    Font(R.font.cormorant_garamond_regular)
+//)
 
 // Set of Material typography styles to start with
 val Typography = Typography(
@@ -41,7 +42,7 @@ val Typography = Typography(
         fontSize = 14.sp
     ),
     bodyLarge = TextStyle(
-        fontFamily = CormorantGaramond,
+        fontFamily = NotoSans,
         fontWeight = FontWeight.Normal,
         fontSize = 14.sp
     )
